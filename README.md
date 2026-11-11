@@ -1,35 +1,59 @@
-
 # Aman Karmakar
 
-### Frontend Developer | UI Designer
+<p align="center">
+  <strong>Frontend Developer · UI Designer</strong>
+  <br />
+  Building thoughtful digital experiences with design and code.
+</p>
 
-Building thoughtful digital experiences through clean interfaces, purposeful design, and smooth interactions.
-
----
-
-### About Me
-
-- 🎨 Focused on frontend development and UI/UX design.
-- 💻 Building modern, responsive web experiences.
-- 🚀 Currently improving my skills through real-world projects.
-- 🌱 Exploring creative interactions and animation.
-
-### Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React
-- **Styling:** Tailwind CSS
-- **Animation:** GSAP, Motion
-- **Tools:** Git, GitHub, VS Code, Vite
-
-### Featured Project
-
-**AURELIS** — A premium real-estate web experience.
-
-[Live Website](https://aurelis-roan.vercel.app/)
+<p align="center">
+  <a href="https://github.com/aman-karmakar-dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://aurelis-roan.vercel.app/">
+    <img src="https://img.shields.io/badge/Featured_Project-AURELIS-C4F56A?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-### Connect
+## ABOUT
 
-- GitHub: [@aman-karmakar-dev](https://github.com/aman-karmakar-dev)
+I'm a frontend developer focused on creating modern, responsive, and visually thoughtful web experiences.
+
+I enjoy combining clean code, strong visual design, and meaningful interactions to build interfaces that feel polished and intuitive.
+
+## TECH STACK
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap,vite,git,github,vscode" />
+</p>
+
+## FEATURED PROJECT
+
+### AURELIS — Luxury Real Estate Experience
+
+A premium real-estate website focused on architectural presentation, immersive interactions, and refined interface design.
+
+- React
+- JavaScript
+- Tailwind CSS
+- GSAP
+- Vite
+
+**[Explore AURELIS →](https://aurelis-roan.vercel.app/)**
+
+---
+
+## CURRENT FOCUS
+
+- Improving frontend development skills
+- Exploring advanced UI interactions and animation
+- Building thoughtful digital experiences
+- Learning through practical projects
+
+---
+
+<p align="center">
+  <strong>Designed with intent. Built with code.</strong>
+</p>
